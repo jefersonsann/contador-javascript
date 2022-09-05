@@ -1,6 +1,6 @@
 # #Contador feito com HTML,CSS e JavaScript
 
-<img width="100%" src="https://raw.githubusercontent.com/jefersonsann/contador-javascript/img/contadorSimples.png" alt="Imagem Projeto versão mobile" />
+<img width="100%" src="https://raw.githubusercontent.com/jefersonsann/contador-javascript/main/img/contadorSimples.png" alt="Imagem Projeto versão mobile" />
 
 ## 🔧 Instalação
 
